@@ -1,0 +1,37 @@
+/* Component/MyTitle/MyTitle.wxss */
+.my_title {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color:#fff; 
+    padding:10rpx;
+}
+.logo {
+    flex:5;
+}
+.search_icon {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10rpx;
+}
+.user_icon {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:10rpx;
+}
+.down_app{
+    flex: 3;
+    justify-content: center;
+    align-items: center;
+    font-size: 30rpx;
+    color:#fff;
+    padding: 10rpx;
+    background-color: skyblue;
+    border-radius: 10rpx;
+    text-align: center; 
+}
+/*  */

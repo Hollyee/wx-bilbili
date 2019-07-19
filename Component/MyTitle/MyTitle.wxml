@@ -1,0 +1,21 @@
+<!--Component/MyTitle/MyTitle.wxml-->
+<view class="my_title">
+    <!-- 头部导航 -->
+    <navigator class="logo">
+        <image style="width: 140rpx;height: 60rpx;" src="../../icons/logo.jpg"/>          
+    </navigator>
+    <!-- 搜索 -->
+    <view class="search_icon">
+       <image style="width: 65rpx; height: 65rpx;" src="../../icons/icons02_03.png"/>          
+    </view>
+    <!-- 用户 -->
+    <view class="user_icon">
+        <image src="../../icons/icons_04_03.png" style="width: 65rpx; height: 65rpx;"/>
+    </view>
+    <!-- 下载 -->
+    <view class="down_app">
+        下载 APP
+    </view>      
+</view>
+  
+  
